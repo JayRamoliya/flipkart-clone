@@ -1,0 +1,62 @@
+.filter-sidebar {
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.filter-section {
+    margin-bottom: 16px;
+}
+
+.filter-header {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 0;
+}
+
+.filter-options {
+    margin-top: 8px;
+}
+
+.filter-option {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.filter-option input {
+    margin-right: 8px;
+}
+
+
+.filter-sidebar {
+    padding: 20px;
+}
+
+.filter-section {
+    margin-bottom: 10px;
+}
+
+.filter-header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+
+.filter-options {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-top: 5px;
+}
+
+.filter-option {
+    margin: 5px 0;
+}
+
+.filter-option label {
+    cursor: pointer;
+}

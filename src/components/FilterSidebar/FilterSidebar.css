@@ -1,0 +1,30 @@
+.filter-sidebar {
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.filter-section {
+  margin-bottom: 16px;
+}
+
+.filter-header {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 8px 0;
+}
+
+.filter-options {
+  margin-top: 8px;
+}
+
+.filter-option {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.filter-option input {
+  margin-right: 8px;
+}
